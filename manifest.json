@@ -22,7 +22,7 @@
 
   "commands": {
     "_execute_browser_action": {
-      "suggested_key": { "default": "Ctrl+E" },
+      "suggested_key": { "default": "Ctrl+Z", "mac": "Command+Shift+Left" },
       "description": "Log the open tabs in this window to the console."
     }
   }
